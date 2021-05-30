@@ -6,7 +6,7 @@ var emojiDictionary = {
   "😳": "Disbelief",
   "😔": "Sad",
   "🔥": "Lit",
-  "❤️": "Love Heart",
+  "🥺": "Pleading Face",
   "😑": "Expressionless"
 };
 
