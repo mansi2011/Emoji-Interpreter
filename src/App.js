@@ -7,7 +7,13 @@ var emojiDictionary = {
   "😔": "Sad",
   "🔥": "Lit",
   "🥺": "Pleading Face",
-  "😑": "Expressionless"
+  "😑": "Expressionless",
+  "🤣": "Rolling out of laugh",
+  "🤩": "Star struck",
+  "😐": "Neutral face",
+  "🙄": "Rolling eyes",
+  "😕": "Confused face",
+  "😠": "Angry face"
 };
 
 export default function App() {
